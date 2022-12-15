@@ -1,0 +1,6 @@
+C:\Users\Sgt.Peppers\Desktop\La Fuente\LAFUENTE\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Sgt.Peppers\Desktop\La Fuente\LAFUENTE\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Sgt.Peppers\Desktop\La Fuente\LAFUENTE\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Sgt.Peppers\Desktop\La Fuente\LAFUENTE\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Sgt.Peppers\Desktop\La Fuente\LAFUENTE\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Sgt.Peppers\Desktop\La Fuente\LAFUENTE\CapaEntidad\obj\Debug\CapaEntidad.pdb
